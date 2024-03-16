@@ -13,6 +13,7 @@ body{
     background-repeat: no-repeat;
     background-attachment: fixed;
     overflow: hidden;
+    border-left: 20px;
 }
 .wrapper{
     display: flex;
@@ -137,6 +138,7 @@ header{
     border-radius: 30px;
     outline: none;
     transition: .2s ease;
+    
 }
 .input-field:hover, .input-field:focus{
     background: rgba(255, 255, 255, 0.25);
