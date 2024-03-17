@@ -13,8 +13,11 @@ body{
     background-repeat: no-repeat;
     background-attachment: fixed;
     overflow: hidden;
-    border-left: 20px;
+    border-left: 20px; 
 }
+
+
+
 .wrapper{
     display: flex;
     justify-content: center;
